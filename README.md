@@ -34,4 +34,4 @@ Naive Random Oversampling:
 
 
 ## SUMMARY
-For all models, utlizing EasyEnsembleClassifier is the most effective. Provides a highest Score for all Risk loans. The precision is low or none for all the models. In General, above the 90% of the current analysis, utlizing EasyEnsembleClassifier will perform a High-Risk loan precision as a great value for the overall analysis.
+For all models, utlizing EasyEnsembleClassifier is the most effective.It has the highest accuracy score of nearly 90% which outperforms all other models we have tried. 
